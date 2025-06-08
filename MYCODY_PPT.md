@@ -28,6 +28,8 @@ https://www.miricanvas.com/v2/design/14lgwre
 
 ## 4주차
 * AI 연동 기능 추가 중
+  - 사용자 정보 영어 매핑 처리 완료
+  - 이미지 생성 AI 사용 위한 Hugging Face API 연동 완료
 * !-이미지 생성에 어려움이 있어 수정 중
 * !-앱을 잘 드러내는 아이콘 or 사진 ppt에 추가 - 완료(임시)
 * ppt에 진행상황 추가
