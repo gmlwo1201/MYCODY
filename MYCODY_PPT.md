@@ -33,3 +33,4 @@ https://www.miricanvas.com/v2/design/14lgwre
 * !-이미지 생성에 어려움이 있어 수정 중
 * !-앱을 잘 드러내는 아이콘 or 사진 ppt에 추가 - 완료(임시)
 * ppt에 진행상황 추가
+* 요구사항 실제로 조사해서 추가 완료
